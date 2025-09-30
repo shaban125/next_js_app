@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: shaban
+    runs-on: shaban12
 
     steps:
       - name: Checkout repository
